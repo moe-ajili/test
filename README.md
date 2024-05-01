@@ -1,4 +1,5 @@
-├── nnUNet_preprocessed
+
+`├── nnUNet_preprocessed
 │   └── Dataset001
 ├── nnUNet_raw        
 ├── nnUNet_results
@@ -6,3 +7,4 @@
 │       ├── nnUNetTrainer__nnUNetResEncUNetLPlans__3d_fullres
 │       ├── nnUNetTrainer__nnUNetResEncUNetMPlans__3d_fullres
 │       └── nnUNetTrainer__nnUNetResEncUNetXLPlans__3d_fullres
+    `
